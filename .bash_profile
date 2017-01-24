@@ -1,3 +1,5 @@
+export PHP_AUTOCONF=/usr/local/bin/autoconf
+export PATH=/usr/local/php5/bin:$PATH
 
 # ------  misc bash settings  --------{{{
 shopt -s histappend     # append history lists of different sessions instead of overwriting
